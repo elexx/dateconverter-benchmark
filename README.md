@@ -1,5 +1,6 @@
 ## JMH benchmark for Apache Johnzon `DateConverter`
 
+Sample code for [JOHNZON-293](https://issues.apache.org/jira/browse/JOHNZON-293).
 
 
 ```
@@ -279,3 +280,6 @@ SimpleDateFormatterBenchmark.parseReuseFormat     avgt    5  1121,955 ±  12,417
 ```
 
 </details>
+
+
+[]: https://issues.apache.org/jira/browse/JOHNZON-293
